@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stiogype.github.io/sitemap.html.gz
+Sitemap: https://stiogype.github.io/app/sitemap.html.gz
+Sitemap: https://stiogype.github.io/assets/sitemap.html.gz
+Sitemap: https://stiogype.github.io/css/sitemap.html.gz
+Sitemap: https://stiogype.github.io/includes/sitemap.html.gz
+Sitemap: https://stiogype.github.io/item/sitemap.html.gz
+Sitemap: https://stiogype.github.io/src/sitemap.html.gz
